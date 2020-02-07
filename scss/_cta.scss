@@ -2,6 +2,9 @@
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: fade-out($primary, 0.1);
+  a{
+    color: white;
+  }
   .cta-inner {
     position: relative;
     padding: 3rem;

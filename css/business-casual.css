@@ -25,6 +25,10 @@ p {
   line-height: 1.75;
 }
 
+.text-primary, a.text-primary:hover{
+  color: $primary;
+}
+
 .text-faded {
   color: rgba(255, 255, 255, 0.3);
 }
@@ -149,8 +153,6 @@ p {
   background-color: rgba(230, 167, 86, 0.9);
   z-index: 10;
 }
-
-
 form .cta{
   text: blue;
 }
